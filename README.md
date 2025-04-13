@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANKITKUMAR1809
 - 👀 I’m MERN STACK DEVELOPER.
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on Web Real time Projects.
 - 📫 How to reach me ankitkumar1878@gmail.com
 - 😄 Pronouns: Eshu
