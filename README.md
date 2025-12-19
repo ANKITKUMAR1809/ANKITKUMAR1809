@@ -1,62 +1,65 @@
-<!-- HERO -->
+<!-- ════════════════ FUTURISTIC HERO ════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ankit%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00F5FF,50:7F00FF,100:00F5A0&height=210&section=header&text=ANKIT%20KUMAR&fontSize=44&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
-  <b>Full-Stack MERN Developer • DSA Learner • System Thinking</b><br/>
-  <i>Building real products, not just tutorials</i>
-</p>
-
----
-
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-MERN-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Backend-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-purple?style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;DSA+%7C+System+Design+Focused;Backend+%7C+Real-Time+Applications;Build.+Break.+Optimize." />
 </p>
 
 ---
 
-<!-- TECH ICONS -->
+<!-- ════════════════ NEON DIVIDER ════════════════ -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github,tailwind,docker&theme=dark" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750128-0d1f2a9b-4b0b-4e41-bd0f-1d0d87db0c1c.gif" width="520"/>
 </p>
 
 ---
 
-<!-- FUTURISTIC LINE -->
+<!-- ════════════════ TECH MATRIX ════════════════ -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750047-9b2b68e1-6bfa-4d58-90cf-06c9c5e7b0e2.gif" width="400"/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github,docker,tailwind&theme=dark" />
 </p>
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- ════════════════ CORE STATS ════════════════ -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ANKITKUMAR1809&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITKUMAR1809&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ANKITKUMAR1809&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITKUMAR1809&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-<!-- STREAK -->
+<!-- ════════════════ STREAK ENGINE ════════════════ -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ANKITKUMAR1809&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ANKITKUMAR1809&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
+<!-- ════════════════ ACTIVITY GRAPH ════════════════ -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANKITKUMAR1809&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANKITKUMAR1809&bg_color=0d1117&color=00F5FF&line=7F00FF&point=00F5A0&hide_border=true" />
 </p>
 
 ---
 
-<!-- FOOTER -->
+<!-- ════════════════ 3D CONTRIBUTION CUBE ════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=80&section=footer" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=ANKITKUMAR1809&theme=dark" />
+</p>
+
+---
+
+<!-- ════════════════ FUTURISTIC QUOTE ════════════════ -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+<!-- ════════════════ FOOTER ════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:7F00FF,50:00F5FF,100:00F5A0&height=110&section=footer" />
 </p>
