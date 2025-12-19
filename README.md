@@ -2,16 +2,16 @@
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api
-    ?type=wave
-    &height=240
-    &text=ANKIT%20KUMAR
-    &fontSize=46
-    &fontColor=ffffff
-    &color=0:0f2027,50:203a43,100:2c5364
-    &bgColor=0d1117
-    &animation=fadeIn"
+    ?type=wave height=260
+    text=ANKIT%20KUMAR
+    fontSize=48
+    fontColor=ffffff
+    color=0:00F5FF,50:7F00FF,100:00F5A0
+    bgColor=0d1117
+    animation=fadeIn"
   />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;DSA+%7C+System+Design+Focused;Backend+%7C+Real-Time+Apps;Build.+Break.+Optimize." />
