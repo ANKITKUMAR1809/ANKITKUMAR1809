@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00F5FF,50:7F00FF,100:00F5A0&height=210&section=header&text=ANKIT%20KUMAR&fontSize=44&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7F00FF,100:00F5A0&height=230&section=header&text=ANKIT%20KUMAR&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
