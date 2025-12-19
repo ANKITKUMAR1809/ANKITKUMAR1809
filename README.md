@@ -1,7 +1,8 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=ANKIT%20KUMAR&fontSize=42&fontColor=ffffff&color=0:0d1117,100:0d1117" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&text=ANKIT%20KUMAR&fontSize=44&fontColor=ffffff&color=0:0d1117,50:111827,100:0d1117" />
 </p>
+
 
 
 
