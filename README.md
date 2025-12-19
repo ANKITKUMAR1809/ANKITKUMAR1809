@@ -1,4 +1,4 @@
-<!-- ===================== FUTURISTIC HERO ===================== -->
+<!-- ===================== HERO ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00F5FF,50:7F00FF,100:00F5A0&height=210&section=header&text=ANKIT%20KUMAR&fontSize=44&fontColor=ffffff&animation=twinkling" />
 </p>
@@ -9,14 +9,7 @@
 
 ---
 
-<!-- ===================== NEON DIVIDER ===================== -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750128-0d1f2a9b-4b0b-4e41-bd0f-1d0d87db0c1c.gif" width="520"/>
-</p>
-
----
-
-<!-- ===================== TECH MATRIX ===================== -->
+<!-- ===================== TECH STACK ===================== -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github,docker,tailwind&theme=dark" />
 </p>
@@ -25,9 +18,59 @@
 
 <!-- ===================== GITHUB STATS ===================== -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ANKITKUMAR1809&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITKUMAR1809&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ANKITKUMAR1809&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITKUMAR1809&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+<h2 align="center">🧊 Featured Projects</h2>
+<p align="center"><i>Live products • Real users • End-to-end builds</i></p>
+
+<table align="center">
+<tr>
+<td align="center" width="300">
+
+### 🏫 KIEC Portal  
+Educational institute platform  
+Admin & student workflows  
+
+🔗 https://kiec.ankitkumar.fun  
+
+</td>
+<td align="center" width="300">
+
+### 🛒 ASMall  
+E-commerce application  
+Products, orders & users  
+
+🔗 https://asmall.ankitkumar.fun  
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="300">
+
+### ⌚ PrimeWatch  
+Watch brand website  
+Production-ready deployment  
+
+🔗 https://primewatch.in  
+
+</td>
+<td align="center" width="300">
+
+### 🏢 IMS  
+Institute Management System  
+Auth + dashboards  
+
+🔗 https://ims.ankitkumar.fun  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -45,7 +88,7 @@
 
 ---
 
-<!-- ===================== 3D CONTRIBUTION ===================== -->
+<!-- ===================== 3D CONTRIBUTIONS ===================== -->
 <p align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=ANKITKUMAR1809&theme=dark" />
 </p>
