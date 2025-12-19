@@ -63,7 +63,7 @@ Production-ready deployment
 <td align="center" width="300">
 
 ### 🏢 IMS  
-Institute Management System  
+Inventory Management System  
 Auth + dashboards  
 
 🔗 https://ims.ankitkumar.fun  
@@ -88,12 +88,6 @@ Auth + dashboards
 
 ---
 
-<!-- ===================== 3D CONTRIBUTIONS ===================== -->
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=ANKITKUMAR1809&theme=dark" />
-</p>
-
----
 
 <!-- ===================== QUOTE ===================== -->
 <p align="center">
